@@ -1289,20 +1289,10 @@ a:hover {
 }
 #content3-2a P {
   text-align: right;
+  font-size: 18px;
 }
 #tabs1-27 P {
   font-size: 18px;
-}
-#footer2-20 .footer-list {
-  color: #749dc7;
-}
-#footer2-20 .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-20 .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
 }
 #menu2-2b .hide-buttons .nav-btn {
   display: none !important;
