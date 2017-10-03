@@ -745,17 +745,6 @@ a:hover {
 #msg-box1-1k .round-text {
   text-align: center;
 }
-#footer2-p .footer-list {
-  color: #749dc7;
-}
-#footer2-p .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-p .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
-}
 #form3-1x .card {
   background-color: transparent;
   box-shadow: none;
@@ -834,17 +823,6 @@ a:hover {
 #menu2-q .link[aria-expanded="true"],
 #menu2-q .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
-}
-#footer2-r .footer-list {
-  color: #749dc7;
-}
-#footer2-r .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-r .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
 }
 #menu2-s .hide-buttons .nav-btn {
   display: none !important;
@@ -1528,7 +1506,13 @@ a:hover {
   border-color: #049ffc;
 }
 #features3-37 .features {
-  background: #f6f7f8;
+  background: #424242;
+}
+#features3-37 .card-text {
+  color: #999999;
+}
+#features3-37 .card-title {
+  color: #fffffd;
 }
 #menu2-38 .hide-buttons .nav-btn {
   display: none !important;
