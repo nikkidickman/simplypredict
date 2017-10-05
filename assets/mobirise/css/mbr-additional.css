@@ -615,6 +615,7 @@ a:hover {
 }
 #features20-2p .heading-text {
   font-size: 20px;
+  text-align: left;
 }
 #features20-2p .card-text {
   font-size: 18px;
@@ -622,22 +623,9 @@ a:hover {
 #features20-2p .card-text SPAN {
   font-size: 18px;
 }
-#msg-box4-2v H1 {
-  color: #434343;
-  text-align: left;
-}
-#msg-box4-2v P {
-  color: #434343;
-}
-#msg-box4-2v .round-text {
-  text-align: left;
-}
-#features3-2w .mbr-iconfont {
-  background: #4e9ef0;
-  border-color: #4e9ef0;
-}
-#features3-2w .features {
-  background: #f6f7f8;
+#content3-3k .mbr-section-title,
+#content3-3k .mbr-section-subtitle {
+  text-align: center;
 }
 #content3-33 .mbr-section-title,
 #content3-33 .mbr-section-subtitle {

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 129,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -111,7 +111,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -291,7 +291,8 @@
               "border-color": "#fff"
             },
             ".heading-text": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".card-text": {
               "font-size": "18px"
@@ -312,7 +313,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "iconsBgColor": "#fff",
             "parallax": false,
             "bgImageRadio": true,
@@ -336,7 +337,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
           },
-          "title": "Expertise",
+          "title": "Our Solution",
           "text": "The TV and cinema industry is in transition: With digital media on the rise, viewing habits and advertiser needs have changed. The pace of developments have  become increasingly fast, and keeping up with it is a continuous challenge. Our mission is to drive this industry forward. Our expertise and global network give us a unique grasp on the opportunities this changing environment has to offer. We strategize and we consult. We do advanced research and look into the most specific of trends. Our team works hand-in-hand with some of the world’s largest broadcasters to craft innovative multiscreen strategies and developing creative concepts and formats. We know what the industry demands from you. Let us help you stay ahead of your competition.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
@@ -396,247 +397,116 @@
         },
         {
           "_styles": {
-            "H1": {
-              "color": "#434343",
-              "text-align": "left"
-            },
-            "P": {
-              "color": "#434343"
-            },
-            ".round-text": {
-              "text-align": "left"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2v",
+          "_name": "content3",
+          "_anchor": "content3-3k",
           "_params": {
-            "iconsBorder": true,
-            "iconsColor": "#434343",
-            "iconsNumber": "one",
-            "imageSize": 50,
-            "containerColor1": "#77c3f7",
-            "containerColor2": "#0a4ef5",
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/accordion1.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showIcons": false
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgColor": "#fff",
+            "showMeta": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-09-26-at-2-1400x1279.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "#modalWindow",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "MobiriseIcons"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Our Approach",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit2",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "text1": "The promise of data-driven transformation has captured the imagination of leaders throughout the business world and is driving change in the public and social sectors, too. Executives are inspired by the idea of using data to make better decisions and digitizing all sorts of processes to improve performance. The winners will be agile, pragmatic, and disciplined. They will move fast and capture quick wins, but they will also carefully plan a transformation roadmap to optimize performance in the functions and operations that create the most value, while building the technical capabilities and resources to sustain the transformation.",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "timer",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "text3": "Publish your website to a local drive, FTP or host on Amazon S3, Github."
+          "title": "Who We Are",
+          "meta": "By <b>John Smith</b> posted July 20, 2016"
         },
         {
-          "subtitle1": "Awesome",
-          "subtitle2": "Awesome",
-          "subtitle3": "Awesome",
-          "subtitle4": "Awesome",
-          "subtitle5": "Awesome",
-          "subtitle6": "Awesome",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "#4e9ef0",
-              "border-color": "#4e9ef0"
-            },
-            ".features": {
-              "background": "#f6f7f8"
-            }
-          },
-          "_anchor": "features3-2w",
+          "_name": "testimonials1",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "featuresBg": "#f6f7f8",
-            "iconsBgColor": "#4e9ef0",
+            "autoplay": true,
+            "arrowColor": "#e3e3e3",
+            "timeout": 5,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "slides": [
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/ed-vincent-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Ed Vincent",
+                "authorBio": "Founder/Partner<br>STRATEGY &amp; CORP DEVELOPMENT<br>",
+                "text": "<p>Entrepreneur with over 20 years business, technology and management experience including 6 years banking and valuation experience. Founded an e-commerce business in 1999 which was sold to a competitor in 2001. Repeat Founder including Predict, SimplyEngage and myProducer. Currently Founder of Predict, Connected Intelligence &amp; Audience Ventures.</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/chris-bryant-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Chris Bryant",
+                "authorBio": "Managing Partner<br>CONSULTING SERVICES<br>",
+                "text": "<p>Chris has more than 20 years of digital marketing experience, having founded one of the first big dot com agencies in 1995. T3 Media was born and quickly grew into the leading provider of interactive marketing services for Broadway’s biggest shows, including Phantom of the Opera, Les Misérables, Cats and many others.&nbsp;</p><p><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">By 1997, T3 Media became the Interactive Agency of Record for major Fortune 500 brands like Microsoft, Deutsche Bank and American Express. In just five years, Chris successfully built the company into a national presence, and ultimately sold the company in 1999. Chris was a finalist for the Ernst &amp; Young Entrepreneur of the Year in 1999.</span><br></p><p><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">Since 2003 Chris has been involved as a partner, board member or adviser to 10 highly varied businesses including Elizabeth Street Gallery, importing 18th and 19th Century European carved stone statuary, garden ornaments and architectural elements; Rhino Mobile, a leading mobile advertising network; and the Entrepreneurs’ Organization. A member for 15+ years, he has served on the New York City chapter board including three years as President from 2005-2016. He also served on EO’s Global Board from 2011-2014, overseeing the organization's 116 chapters in 42 countries.</span><br></p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/jess-marcus-160x160.png",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Jeff Marcus",
+                "authorBio": "Managing Partner<br>TECHNOLOGY &amp; DATA<br>",
+                "text": "<p>Jeff elevates companies to the next stage of innovation with IT services such as technology, leadership, strategy and development.</p><p>Previously, Jeff served as CTO of 24/7 Real Media (now Xaxis), leading up to the sale to WPP.</p><p>As a VP and GM at Mirror Image, he founded their Streaming Media division. Jeff was VP of Networking at DoubleClick and VP of Operations at JvNCNET (John von Neumann Center Network at Princeton), one of the original six backbone nodes of the Internet.</p><p>He also held key management positions at KPMG and UPS and began his career as a software engineer at IBM.</p>"
+              }
+            ],
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/02_4.jpg",
-            "bgColor": "#ffffff",
+            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.95,
-            "overlayColor": "#fffffd",
-            "showHeading": true,
-            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
             "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showFeaturesHeader": false,
-            "columns": "3",
-            "showFeaturesImages": true,
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false
+            "showSubtitle": false,
+            "showBullets": true
           },
-          "title": "Our Process",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "th",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title1": "Infrastructure",
-          "text1": "The Infrastructure enables you to reach your audience more effectively than ever before. It’s the “on ramp” you need to have direct access to the advertising technology ecosystem. We create the design and specifications of your Audience Intelligence Platform (AIP), the data management platform your company needs to improve the quality of your customer data in-house and to interact with advertising technology ecosystem “out there.” We design and implement, providing an end-to-end solution.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "image-add-to-photos",
-              "family": "Material-Design-Icons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title2": "Aggregation",
-          "text2": "We integrate the new infrastructure into your current systems – or build one from scratch, if necessary. With a customer data strategy, we aggregate your 1st party data. Data aggregation captures scattered data from multiple sources into a single new central repository to improve data quality and accessibility. Your data will be liberated from silos, audited, cleansed, and normalized to create better buying experiences for your customers.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "signal",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title3": "Enrichment",
-          "text3": "Customer data enrichment increases the value of your data and involves augmenting, correcting, interpolating, and matching data. We enrich your data by creating a 3rd party data strategy that effectively augments your existing data. Data augmentation may include appending demographic, behavioral, geographical and transactional information. We have a proprietary technology that enables real time enrichment of customer data that we offer for 3rd party data sourcing and augmentation.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "cash",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title4": "Maximize Revenue<br>",
-          "text4": "Maximize advertising revenue by utilizing both 1st and 3rd party data sets to deliver highly targeted audiences with less waste at a premium price point through:&nbsp;<span style=\"font-size: 1rem; line-height: 1.7em; background-color: transparent;\">ad plan optimization,&nbsp;</span>inventory optimization,&nbsp;pricing optimization and&nbsp;attribution tracking.<br>",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "idea",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title5": "Enhance Decisioning<br>",
-          "text5": "Enhance your strategic decision-making with advanced business intelligence and data visualization. Leverage advanced analytics, machine learning and predictive “what if” scenarios to:&nbsp;<span style=\"font-size: 1rem; line-height: 1.7em; background-color: transparent;\">determine the impact of changes,&nbsp;</span>improve pricing analyses,&nbsp;model new services, and<br>create a 360° view of customer to bridge the linear/digital data gaps across content, brands and business units.<br>",
-          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "action-trending-up",
-              "family": "Material-Design-Icons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title6": "Increase Consumption<br>",
-          "text6": "Increasing consumption of your products and services is a primary benefit of leveraging data. Use cases include:&nbsp;<span style=\"font-size: 1rem; line-height: 1.7em; background-color: transparent;\">increasing marketing return (ROI),&nbsp;</span>audience acquisition and development,&nbsp;content personalization, and&nbsp;distribution optimization.<br>",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "_anchor": "testimonials1-16",
+          "title": "What our fantastic users say",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_styles": {
@@ -687,7 +557,7 @@
             "showTabsList": false,
             "showButtons": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-32\" aria-expanded=\"true\">Data Audit</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-32\" aria-expanded=\"false\">Data Due Diligence</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-32\" aria-expanded=\"false\">SVOD Monetization</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-32\" aria-expanded=\"false\">Theater Exhibitor Data Management</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-32\">Withdraw</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-32\">Add funds</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-32\" aria-expanded=\"true\">Data Due Diligence</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-32\" aria-expanded=\"false\">SVOD Monetization</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-32\" aria-expanded=\"false\">Theater Exhibitor Data Management</a></li><br><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-32\">Add funds</a></li>",
           "media1": {
             "image": {
               "active": true,
@@ -699,8 +569,8 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Data Audit",
-          "text1": "A data audit is one of the most effective ways to identify problem areas in your marketing, your data storage, and your overall business operations.  When you take a good, hard look at your data assets and how they’re used, you can easily see where money is being wasted, and how to strategically increase your profits.",
+          "title1": "Data Due Diligence",
+          "text1": "Mergers, acquisitions and investments require due diligence. Yet virtually all diligence fails in two critical areas: First, these reports tell the financial story, but they miss the data’s hidden story of inefficiencies and lost opportunities. Second, “snapshot” diligence reports lack guidance for remediation and strategic tracking after a transaction completes. The optimal solution is what we call CD4, Continuous Data-Driven Due Diligence.",
           "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"dataaudit.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "media2": {
@@ -721,7 +591,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1123.jpg",
               "width": 600,
               "link": "",
               "alt": "",
@@ -892,99 +762,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_params": {
-            "autoplay": true,
-            "arrowColor": "#e3e3e3",
-            "timeout": 5,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "slides": [
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/ed-vincent-160x160.png",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                },
-                "authorName": "Ed Vincent",
-                "authorBio": "Founder/Partner<br>STRATEGY &amp; CORP DEVELOPMENT<br>",
-                "text": "<p>Entrepreneur with over 20 years business, technology and management experience including 6 years banking and valuation experience. Founded an e-commerce business in 1999 which was sold to a competitor in 2001. Repeat Founder including Predict, SimplyEngage and myProducer. Currently Founder of Predict, Connected Intelligence &amp; Audience Ventures.</p>"
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/chris-bryant-160x160.png",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                },
-                "authorName": "Chris Bryant",
-                "authorBio": "Managing Partner<br>CONSULTING SERVICES<br>",
-                "text": "<p>Chris has more than 20 years of digital marketing experience, having founded one of the first big dot com agencies in 1995. T3 Media was born and quickly grew into the leading provider of interactive marketing services for Broadway’s biggest shows, including Phantom of the Opera, Les Misérables, Cats and many others.&nbsp;</p><p><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">By 1997, T3 Media became the Interactive Agency of Record for major Fortune 500 brands like Microsoft, Deutsche Bank and American Express. In just five years, Chris successfully built the company into a national presence, and ultimately sold the company in 1999. Chris was a finalist for the Ernst &amp; Young Entrepreneur of the Year in 1999.</span><br></p><p><span style=\"background-color: transparent; font-size: 1rem; line-height: 1.5;\">Since 2003 Chris has been involved as a partner, board member or adviser to 10 highly varied businesses including Elizabeth Street Gallery, importing 18th and 19th Century European carved stone statuary, garden ornaments and architectural elements; Rhino Mobile, a leading mobile advertising network; and the Entrepreneurs’ Organization. A member for 15+ years, he has served on the New York City chapter board including three years as President from 2005-2016. He also served on EO’s Global Board from 2011-2014, overseeing the organization's 116 chapters in 42 countries.</span><br></p>"
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/jess-marcus-160x160.png",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": "",
-                    "linkInNewWindow": false
-                  }
-                },
-                "authorName": "Jeff Marcus",
-                "authorBio": "Managing Partner<br>TECHNOLOGY &amp; DATA<br>",
-                "text": "<p>Jeff elevates companies to the next stage of innovation with IT services such as technology, leadership, strategy and development.</p><p>Previously, Jeff served as CTO of 24/7 Real Media (now Xaxis), leading up to the sale to WPP.</p><p>As a VP and GM at Mirror Image, he founded their Streaming Media division. Jeff was VP of Networking at DoubleClick and VP of Operations at JvNCNET (John von Neumann Center Network at Princeton), one of the original six backbone nodes of the Internet.</p><p>He also held key management positions at KPMG and UPS and began his career as a software engineer at IBM.</p>"
-              }
-            ],
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_baclground/msg-box3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showSubtitle": false,
-            "showBullets": true
-          },
-          "_anchor": "testimonials1-16",
-          "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "map2",
           "_anchor": "map2-2h",
           "_params": {
@@ -1141,7 +918,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1160,7 +937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_styles": {
@@ -1425,7 +1202,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1444,7 +1221,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -1606,7 +1383,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1625,7 +1402,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -1725,7 +1502,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-09-26-at-2-1400x12797.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-09-26-at-2-1400x1279.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2003,7 +1780,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2022,7 +1799,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -2156,7 +1933,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2175,7 +1952,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -2309,7 +2086,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2328,7 +2105,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -2624,7 +2401,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2643,7 +2420,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "subtitle1": "Awesome",
@@ -2676,7 +2453,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/laptop-with-cafm-dash-2000x1166.jpg",
             "bgColor": "#5b5f6b",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2698,7 +2475,7 @@
             "showFeaturesButtons": false
           },
           "title": "Eliminate Investment Risk&nbsp;",
-          "text": "Predict's data due diligence reviews illuminate data risks in&nbsp;order to evaluate the health of a prospective company. Predict&nbsp;helps tell the story of the data, which often can’t be found in&nbsp;the financials or the technology.&nbsp;Our data due diligence will track the full consumer and user&nbsp;workflow, identifying inefficiencies and missed opportunities,&nbsp;which often can’t be found in the financials or the technology&nbsp;by:",
+          "text": "Predict's data due diligence reviews illuminate data risks in order to evaluate the health of company. &nbsp;We’ve seen many examples of companies losing revenue or headed toward dangerous trends without even realizing it. In other cases, they could not explain their drop in sales. Our data due diligence will track the full consumer and user&nbsp;workflow, identifying inefficiencies and missed opportunities,&nbsp;which often can’t be found in the financials or the technology&nbsp;by:",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>",
           "media1": {
             "iconFont": {
@@ -2889,7 +2666,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2908,7 +2685,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_styles": {
@@ -3160,7 +2937,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3179,7 +2956,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "_tags": [
@@ -3569,7 +3346,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3588,7 +3365,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
@@ -3888,7 +3665,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3907,7 +3684,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">APPROACH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-2v\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Request a Demo</a></li>"
         },
         {
           "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
