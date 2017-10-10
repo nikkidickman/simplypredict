@@ -619,13 +619,20 @@ a:hover {
 }
 #features20-2p .card-text {
   font-size: 18px;
+  text-align: center;
 }
 #features20-2p .card-text SPAN {
   font-size: 18px;
 }
-#content3-3k .mbr-section-title,
-#content3-3k .mbr-section-subtitle {
-  text-align: center;
+#features21-3n .card .mbr-iconfont {
+  background: #ffffff;
+  border-color: #ffffff;
+}
+#features21-3n .mbr-table-cell {
+  vertical-align: middle;
+}
+#features21-3n .card-text {
+  text-align: left;
 }
 #content3-33 .mbr-section-title,
 #content3-33 .mbr-section-subtitle {
@@ -904,158 +911,6 @@ a:hover {
 }
 #features3-v .features {
   background: #f6f7f8;
-}
-#menu2-w .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu2-w .navbar-toggler {
-  color: #0390fc;
-}
-#menu2-w .close-icon::before,
-#menu2-w .close-icon::after {
-  background-color: #0390fc;
-}
-#menu2-w .link,
-#menu2-w .dropdown-item {
-  color: #0390fc;
-  font-family: 'Libre Franklin', serif;
-}
-#menu2-w .link {
-  font-size: 0.8125rem;
-}
-#menu2-w .dropdown-item,
-#menu2-w .nav-dropdown-sm .link {
-  font-size: 0.880rem;
-}
-#menu2-w .link:hover,
-#menu2-w .link:focus {
-  color: #1a73e6;
-}
-#menu2-w .dropdown-item:hover::before,
-#menu2-w .dropdown-item:focus::before {
-  background: #1a73e6;
-}
-#menu2-w .dropdown-item:hover,
-#menu2-w .dropdown-item:focus {
-  color: #0390fc;
-}
-#menu2-w .link[aria-expanded="true"],
-#menu2-w .dropdown-menu {
-  background: #ffffff;
-}
-#menu2-w .nav-dropdown-sm .link:focus,
-#menu2-w .nav-dropdown-sm .link:hover,
-#menu2-w .nav-dropdown-sm .dropdown-item:focus,
-#menu2-w .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu2-w .navbar,
-#menu2-w .nav-dropdown-sm,
-#menu2-w .nav-dropdown-sm .link[aria-expanded="true"],
-#menu2-w .nav-dropdown-sm .dropdown-menu {
-  background: #fff;
-}
-#menu2-w .bg-color.transparent .link {
-  color: #0390fc;
-  transition: none;
-}
-#menu2-w .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu2-w .bg-color.transparent.opened .link:hover,
-#menu2-w .bg-color.transparent.opened .link:focus {
-  color: #1a73e6;
-}
-#menu2-w .link[aria-expanded="true"],
-#menu2-w .dropdown-item[aria-expanded="true"] {
-  color: #1a73e6!important;
-}
-#footer2-x .footer-list {
-  color: #749dc7;
-}
-#footer2-x .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-x .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
-}
-#menu2-y .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu2-y .navbar-toggler {
-  color: #0390fc;
-}
-#menu2-y .close-icon::before,
-#menu2-y .close-icon::after {
-  background-color: #0390fc;
-}
-#menu2-y .link,
-#menu2-y .dropdown-item {
-  color: #0390fc;
-  font-family: 'Libre Franklin', serif;
-}
-#menu2-y .link {
-  font-size: 0.8125rem;
-}
-#menu2-y .dropdown-item,
-#menu2-y .nav-dropdown-sm .link {
-  font-size: 0.880rem;
-}
-#menu2-y .link:hover,
-#menu2-y .link:focus {
-  color: #1a73e6;
-}
-#menu2-y .dropdown-item:hover::before,
-#menu2-y .dropdown-item:focus::before {
-  background: #1a73e6;
-}
-#menu2-y .dropdown-item:hover,
-#menu2-y .dropdown-item:focus {
-  color: #0390fc;
-}
-#menu2-y .link[aria-expanded="true"],
-#menu2-y .dropdown-menu {
-  background: #ffffff;
-}
-#menu2-y .nav-dropdown-sm .link:focus,
-#menu2-y .nav-dropdown-sm .link:hover,
-#menu2-y .nav-dropdown-sm .dropdown-item:focus,
-#menu2-y .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu2-y .navbar,
-#menu2-y .nav-dropdown-sm,
-#menu2-y .nav-dropdown-sm .link[aria-expanded="true"],
-#menu2-y .nav-dropdown-sm .dropdown-menu {
-  background: #fff;
-}
-#menu2-y .bg-color.transparent .link {
-  color: #0390fc;
-  transition: none;
-}
-#menu2-y .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu2-y .bg-color.transparent.opened .link:hover,
-#menu2-y .bg-color.transparent.opened .link:focus {
-  color: #1a73e6;
-}
-#menu2-y .link[aria-expanded="true"],
-#menu2-y .dropdown-item[aria-expanded="true"] {
-  color: #1a73e6!important;
-}
-#footer2-z .footer-list {
-  color: #749dc7;
-}
-#footer2-z .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-z .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
 }
 #menu2-10 .hide-buttons .nav-btn {
   display: none !important;
