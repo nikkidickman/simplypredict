@@ -1,15 +1,15 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "dataduediligence.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
       "styling": {
         "primaryColor": "#049ffc",
         "secondaryColor": "#A25DAE",
-        "successColor": "#1E7C3A",
-        "infoColor": "#74a3c7",
+        "successColor": "#5aac98",
+        "infoColor": "#092368",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
         "titleFont": "Oxygen",
@@ -418,6 +418,18 @@
             "Theme"
           ],
           "_name": "features21",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "#ffffff",
+              "border-color": "#ffffff"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".card-text": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features21-3n",
           "_params": {
             "paddingTop": 1,
@@ -495,19 +507,7 @@
             }
           },
           "title4": "What is Mobirise",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "_styles": {
-            ".card .mbr-iconfont": {
-              "background": "#ffffff",
-              "border-color": "#ffffff"
-            },
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".card-text": {
-              "text-align": "left"
-            }
-          }
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products."
         },
         {
           "_tags": [
@@ -630,6 +630,15 @@
             "Theme"
           ],
           "_name": "tabs1",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#fffffd"
+            },
+            "H3": {
+              "color": "#fffffd"
+            }
+          },
           "_anchor": "tabs1-32",
           "_params": {
             "tabs": "4",
@@ -733,16 +742,7 @@
           "title6": "Tab heading 6",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "color": "#fffffd"
-            },
-            "H3": {
-              "color": "#fffffd"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>"
         },
         {
           "_styles": {
@@ -3195,6 +3195,15 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-text": {
+              "font-size": "22px"
+            }
+          },
           "_anchor": "header4-36",
           "_params": {
             "parallax": false,
@@ -3217,16 +3226,7 @@
           },
           "title": "SVOD",
           "text": "For business' offering of streaming video on-demand (SVOD) services. It is important to see the full picture across major streaming platforms such as Roku, iOS, and the web. Connected Intelligence provides a tool that can piece apart their volumes of data to understand their subscribers: who they are, why and when the make a purchase and why they stop subscriptions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-text": {
-              "font-size": "22px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>"
         },
         {
           "subtitle1": "Awesome",
@@ -3239,6 +3239,21 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".features": {
+              "background": "#424242"
+            },
+            ".card-text": {
+              "color": "#999999"
+            },
+            ".card-title": {
+              "color": "#fffffd"
+            }
+          },
           "_anchor": "features3-37",
           "_params": {
             "paddingTop": "2",
@@ -3356,22 +3371,7 @@
           },
           "title6": "Tenure",
           "text6": "With your cusotmized dashboard you can view the number of subscribers by retention length. This includes the real value for each retention total, along with the total and as a percentage of all subscribers. You can filter this chart based on product or campaign.",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".features": {
-              "background": "#424242"
-            },
-            ".card-text": {
-              "color": "#999999"
-            },
-            ".card-title": {
-              "color": "#fffffd"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         }
       ]
     },
@@ -3514,6 +3514,12 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          },
           "_anchor": "header4-3g",
           "_params": {
             "parallax": false,
@@ -3536,13 +3542,7 @@
           },
           "title": "Power Your Cinema with Data",
           "text": "Cinema goers these days it is next to impossible to know all your customers, but the data trails they leave can help you.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>"
         },
         {
           "subtitle1": "Awesome",
@@ -3553,6 +3553,12 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#049ffc",
+              "border-color": "#049ffc"
+            }
+          },
           "_anchor": "features2-3d",
           "_params": {
             "paddingTop": 1,
@@ -3639,13 +3645,7 @@
           },
           "title4": "Analytics",
           "text4": "Access your data faster with dynamic dashboards and data visualization. Gain ability to explore your data to draw valuable conclusions about your cinema.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "#049ffc",
-              "border-color": "#049ffc"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         }
       ]
     }
