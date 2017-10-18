@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "index.html",
+    "currentPage": "svod.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -3120,187 +3120,131 @@
           "copy": "Copywrite, Predict Ventures, 2015- 2016"
         },
         {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#616161",
+              "border-color": "#616161"
+            },
+            ".card-text": {
+              "color": "#fffffd",
+              "text-align": "left"
+            },
+            ".card-title": {
+              "color": "#fffffd",
+              "text-align": "left",
+              "font-size": "18px"
+            },
+            ".heading-title": {
+              "color": "#fffffd"
+            },
+            ".heading-text": {
+              "color": "#fffffd"
+            },
+            ".card-title P": {
+              "text-align": "left"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-text": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "header4-36",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1123.jpg",
-            "bgColor": "#bdb39a",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "SVOD",
-          "text": "For business' offering of streaming video on-demand (SVOD) services. It is important to see the full picture across major streaming platforms such as Roku, iOS, and the web. Connected Intelligence provides a tool that can piece apart their volumes of data to understand their subscribers: who they are, why and when the make a purchase and why they stop subscriptions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>"
-        },
-        {
           "subtitle1": "Awesome",
           "subtitle2": "Awesome",
           "subtitle3": "Awesome",
           "subtitle4": "Awesome",
-          "subtitle5": "Awesome",
-          "subtitle6": "Awesome",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".features": {
-              "background": "#424242"
-            },
-            ".card-text": {
-              "color": "#999999"
-            },
-            ".card-title": {
-              "color": "#fffffd"
-            }
-          },
-          "_anchor": "features3-37",
+          "_name": "features4",
+          "_anchor": "features4-3q",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "featuresBg": "#424242",
-            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "contentAlign": "center",
+            "iconsBgColor": "#616161",
             "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "bgColor": "#fffffd",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2017-10-18-at-3-2000x1429.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.95,
-            "overlayColor": "#fffffd",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "showHeading": true,
-            "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showFeaturesHeader": false,
-            "columns": "3",
+            "showText": true,
+            "showButtons": true,
+            "columns": "4",
             "showFeaturesImages": false,
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
           },
-          "title": "Features",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "title": "Streaming Video On Demand&nbsp;",
+          "text": "<br>For business' offering of streaming video on-demand (SVOD) services. It is important to see the full picture across major streaming platforms such as Roku, iOS, and the web. Connected Intelligence provides a tool that can piece apart their volumes of data to understand their subscribers: who they are, why and when the make a purchase and why they stop subscriptions.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "",
           "media1": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "credit-card",
+              "name": "touch",
               "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fff",
               "family": "MobiriseIcons"
             }
           },
-          "title1": "Engagement",
-          "text1": "Know the  number of subscribers by engagement (for example, X subscribers are dormant, Y subscribers are from occasional viewers, etc.). This includes the real value, the value as a percentage of all subscribers, total views, total minutes of viewing, average views per view, and average minutes per view, for each engagement level. You can filter this chart based on product or campaign.",
+          "title1": "<p>Engagement&nbsp; &nbsp;</p>",
+          "text1": "Know the number of subscribers by engagement (for example, X subscribers are dormant, Y subscribers are from occasional viewers, etc.).&nbsp;",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "edit",
+              "name": "responsive",
               "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fff",
               "family": "MobiriseIcons"
             }
           },
           "title2": "Paid Subscriptions",
-          "text2": "Visual metrics of owned and operated paid subscribers relative to the calendar date exactly one year prior and YOY varience.<br># paid subscribers, start<br># new conversions<br>conversion rate<br># cancellations<br>cancellation rate<br># paid subscribers, end<br># net growth<br>% net growth<br>",
+          "text2": "Visual metrics of owned and operated paid subscribers relative to the calendar date exactly one year prior and YOY varience.",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "pages",
+              "name": "setting",
               "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fff",
               "family": "MobiriseIcons"
             }
           },
-          "title3": "Retention &amp; Survival&nbsp;",
-          "text3": "Visualizaiton detailing retention. This shows, for all the subscriotions in a given month, how many subscriptions remain on 1 month, 2 months, and so on up to 12 months. You can also see a curve of the survival rates over 12 months for both LV and HMC products.",
+          "title3": "Retention &amp; Survival",
+          "text3": "Visualizaiton detailing retention. This shows, for all the subscriotions in a given month, how many subscriptions remain on 1 month, 2 months, and so on up to 12 months.&nbsp;",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont",
-              "name": "shoping-cart",
+              "name": "hot-cup",
               "link": "https://mobirise.com",
               "size": 40,
-              "color": "#fff",
               "family": "MobiriseIcons"
             }
           },
           "title4": "Cancellers",
-          "text4": "Insightful view of average monthly churn. This visual tells, on average, how many people unsubscribe from a campaign/product every month. You can also view a chart detailing the percent of at risk subs that churned over the past 12 months.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "cash",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title5": "Initiation Rates",
-          "text5": "Know how many prospects sign up for a trial subscription relative to the current date.",
-          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "unlock",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title6": "Tenure",
-          "text6": "With your cusotmized dashboard you can view the number of subscribers by retention length. This includes the real value for each retention total, along with the total and as a percentage of all subscribers. You can filter this chart based on product or campaign.",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "text4": "Insightful view of average monthly churn. This visual tells, on average, how many people unsubscribe from a campaign/product every month. ",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         }
       ]
     },

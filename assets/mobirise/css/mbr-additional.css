@@ -1329,24 +1329,36 @@ a:hover {
 #menu2-34 .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
 }
-#header4-36 .mbr-table-cell {
-  vertical-align: middle;
+#features4-3q .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
 }
-#header4-36 .heading-text {
-  font-size: 22px;
+#features4-3q .card-img a {
+  border-width: 2px;
+  line-height: 72px;
 }
-#features3-37 .mbr-iconfont {
-  background: #049ffc;
-  border-color: #049ffc;
+#features4-3q .mbr-iconfont {
+  color: #616161;
+  border-color: #616161;
 }
-#features3-37 .features {
-  background: #424242;
-}
-#features3-37 .card-text {
-  color: #999999;
-}
-#features3-37 .card-title {
+#features4-3q .card-text {
   color: #fffffd;
+  text-align: left;
+}
+#features4-3q .card-title {
+  color: #fffffd;
+  text-align: left;
+  font-size: 18px;
+}
+#features4-3q .heading-title {
+  color: #fffffd;
+}
+#features4-3q .heading-text {
+  color: #fffffd;
+}
+#features4-3q .card-title P {
+  text-align: left;
 }
 #menu2-38 .hide-buttons .nav-btn {
   display: none !important;
