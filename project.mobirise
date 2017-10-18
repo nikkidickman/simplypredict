@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "svod.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -430,7 +430,12 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "Predict is the trusted adviser to some of the biggest brands. As a data driven consulting firm, our top consultants are the cornerstone of our ability to serve our clients. For this reason, we identify and invest in exceptional people and create an environment that fosters innovation and business breakthroughs leveraging data. Our consultants include technology company Founders, CEO’s, CTO’s and business process leaders. They join Predict to apply their talents to complex, important challenges and have the opportunity to build products that solve important business problems.<br>"
+          "text": "Predict is the trusted adviser to some of the biggest brands. As a data driven consulting firm, our top consultants are the cornerstone of our ability to serve our clients. For this reason, we identify and invest in exceptional people and create an environment that fosters innovation and business breakthroughs leveraging data. Our consultants include technology company Founders, CEO’s, CTO’s and business process leaders. They join Predict to apply their talents to complex, important challenges and have the opportunity to build products that solve important business problems.<br>",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -523,7 +528,15 @@
           },
           "_anchor": "testimonials1-16",
           "title": "What our fantastic users say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "18px"
+            },
+            ".card-footer > small": {
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_styles": {
@@ -583,11 +596,11 @@
             "showTabsList": false,
             "showButtons": true
           },
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-32\" aria-expanded=\"true\">Data Due Diligence</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-32\" aria-expanded=\"false\">SVOD Monetization</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-32\" aria-expanded=\"false\">Theater Exhibitor Data Management</a></li><br style=\"display: inline-block;\"><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-32\">Add funds</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-32\" aria-expanded=\"false\">Data Due Diligence</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><br><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-32\" aria-expanded=\"false\">SVOD Monetization</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-32\" aria-expanded=\"true\">Theater Exhibitor Data Management</a></li><br style=\"display: inline-block;\"><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-32\">Add funds</a></li>",
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dashboard-e1478870381342-2000x1336.jpg",
               "width": 600,
               "link": "",
               "alt": "",
@@ -617,7 +630,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1123.jpg",
+              "src": "@PROJECT_PATH@/assets/images/laptop-with-cafm-dash-2000x1166.jpg",
               "width": 600,
               "link": "",
               "alt": "",
@@ -632,7 +645,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/5271cea5f48068ece65545f024712f4f-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
               "width": 600,
               "link": "",
               "alt": "",
@@ -691,7 +704,7 @@
             "paddingBottom": 4,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2017-10-18-at-4-2000x1090.png",
             "bgColor": "#2d2d2d",
             "bgColorRadio": false,
             "bgVideo": {
@@ -699,7 +712,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#2d2d2d",
             "contentAlign": "left",
             "showTitle": true,
