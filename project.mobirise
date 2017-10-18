@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "dataduediligence.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 132,
+    "uniqCompNum": 134,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -225,7 +225,7 @@
             "showFeaturesButtons": false
           },
           "title": "What We Do",
-          "text": "We bring together the right people, tools, and data to transform your business, delivering strategic data solutions across the enterprise. Data should be actionable at all levels of the organization and visualized for leadership to drive strategy.&nbsp;<br><br>Additionally, we spend significant time investigating related data and digital companies and markets, fleshing out opportunities for institutional investments. We&nbsp;bring deep industry knowledge, curiosity, and passion to help clients evolve from being data-deficient to data-driven.<br>",
+          "text": "We bring together the right people, tools, and data to transform your business, delivering strategic data solutions across the enterprise. Data should be actionable at all levels of the organization and visualized for leadership to drive strategy.&nbsp;<br><br>Additionally, we spend significant time investigating related data and digital companies and markets, fleshing out opportunities for institutional investments.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "iconFont": {
@@ -397,117 +397,40 @@
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
-          "bgicon": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "website-theme",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
-          "subtitle1": "Awesome",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "subtitle2": "Awesome",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "subtitle3": "Awesome",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "subtitle4": "Awesome",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features21",
-          "_styles": {
-            ".card .mbr-iconfont": {
-              "background": "#ffffff",
-              "border-color": "#ffffff"
-            },
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".card-text": {
-              "text-align": "left"
-            }
+          "_name": "content3",
+          "_anchor": "content3-3o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "_anchor": "features21-3n",
+          "title": "Who We Are&nbsp;",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3p",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "iconsBgColor": "#ffffff",
-            "containerColor1": "#ffffff",
-            "containerColor2": "#ffffff",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#616161",
-            "showHeading": true,
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "bgicon": true,
-            "columns": "1"
+            "bgColor": "#ffffff"
           },
-          "title": "Who We Are&nbsp;",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "image-control-point",
-              "family": "Material-Design-Icons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "color": "#222"
-            }
-          },
-          "title1": "",
-          "text1": "Predict is the trusted adviser to some of the biggest brands. As a data driven consulting firm, our top consultants are the cornerstone of our ability to serve our clients. For this reason, we identify and invest in exceptional people and create an environment that fosters innovation and business breakthroughs leveraging data. Our consultants include technology company Founders, CEO’s, CTO’s and business process leaders. They join Predict to apply their talents to complex, important challenges and have the opportunity to build products that solve important business problems.",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "color": "#222",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title2": "What is Mobirise",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "devices",
-              "link": "https://mobirise.com",
-              "color": "#222",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title3": "What is Mobirise",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "touch-swipe",
-              "link": "https://mobirise.com",
-              "color": "#222",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products."
+          "text": "Predict is the trusted adviser to some of the biggest brands. As a data driven consulting firm, our top consultants are the cornerstone of our ability to serve our clients. For this reason, we identify and invest in exceptional people and create an environment that fosters innovation and business breakthroughs leveraging data. Our consultants include technology company Founders, CEO’s, CTO’s and business process leaders. They join Predict to apply their talents to complex, important challenges and have the opportunity to build products that solve important business problems.<br>"
         },
         {
           "_tags": [

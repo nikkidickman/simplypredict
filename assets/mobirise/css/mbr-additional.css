@@ -624,15 +624,12 @@ a:hover {
 #features20-2p .card-text SPAN {
   font-size: 18px;
 }
-#features21-3n .card .mbr-iconfont {
-  background: #ffffff;
-  border-color: #ffffff;
+#content3-3o .mbr-section-title,
+#content3-3o .mbr-section-subtitle {
+  text-align: center;
 }
-#features21-3n .mbr-table-cell {
-  vertical-align: middle;
-}
-#features21-3n .card-text {
-  text-align: left;
+#content3-3o P {
+  text-align: right;
 }
 #content3-33 .mbr-section-title,
 #content3-33 .mbr-section-subtitle {
