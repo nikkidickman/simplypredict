@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "index.html",
+    "currentPage": "dataduediligence.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -2233,6 +2233,12 @@
             },
             ".card-text": {
               "font-size": "18px"
+            },
+            ".heading-title DIV": {
+              "text-align": "center"
+            },
+            ".heading-title": {
+              "font-size": "60px"
             }
           },
           "_anchor": "header1-1t",
@@ -2241,7 +2247,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/laptop-with-cafm-dash-2000x1166.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/article-image-copy-2000x1031.png",
             "bgColor": "#5b5f6b",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2249,35 +2255,35 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "showFeatures": true,
-            "columns": "4",
+            "columns": "2",
             "showFeaturesImages": true,
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
           },
-          "title": "Eliminate Investment Risk&nbsp;",
-          "text": "Predict's data due diligence reviews illuminate data risks in order to evaluate the health of company. &nbsp;We’ve seen many examples of companies losing revenue or headed toward dangerous trends without even realizing it. In other cases, they could not explain their drop in sales. Our data due diligence will track the full consumer and user&nbsp;workflow, identifying inefficiencies and missed opportunities,&nbsp;which often can’t be found in the financials or the technology&nbsp;by:",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Get Started</a>",
+          "title": "Optimizing Deal Value Through Data-Driven Diligence\n<div>&nbsp;</div>",
+          "text": "Predict's data due diligence reviews illuminate data risks in order to evaluate the health of company. &nbsp;We’ve seen many examples of companies losing revenue or headed toward dangerous trends without even realizing it. In other cases, they could not explain their drop in sales. Our data due diligence will track the full consumer and user&nbsp;workflow, identifying inefficiencies and missed opportunities,&nbsp;which often can’t be found in the financials or the technology.&nbsp;Regardless of your current role, you’ll be able to access the platform, as well as Predict’s consultants, to wield our deep media and technology industry knowledge to drive these insights.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://52.91.56.83/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Started</a>",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "folder-open",
-              "family": "FontAwesome",
+              "name": "cash",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 40
             }
           },
           "title1": "",
-          "text1": "Predict identifies and evaluates the data: audit of all&nbsp;data sources, identifies location and accessibility,&nbsp;understand current usage and evaluate overall&nbsp;health customer data<br>",
+          "text1": "As an investor, you can:<br>* &nbsp;Verify the financial numbers through operational data<br>* &nbsp;Discover business risks that are not reflected in the financials<br>* &nbsp;If you proceed with the investment, then you have continuous &nbsp; &nbsp;access to operational performance<br>* Track remediation activities<br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -2291,7 +2297,7 @@
             }
           },
           "title2": "",
-          "text2": "Unify, enhance, and Secure, social, CRM and other proprietary sources to provide a holistic data&nbsp;universe.<br>",
+          "text2": "As a company operator, you can:<br>* Save many hours preparing for board meetings<br>* Discover and quantify inefficiencies that affect margins<br>* Discover opportunities to increase revenues<br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
