@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "index.html",
+    "currentPage": "predictlabs.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1025,7 +1025,7 @@
           },
           "title2": "Predict Labs is the R&amp;D division of Predict Consulting and differentiates us in the industry. Predict Labs enables us to quickly test scenarios for systems by creating prototypes. By doing a proof-of-concept for a client, we put quality assurance at the beginning, middle and end of our process.&nbsp;Predict Labs makes us nimble so we can provide the best solutions for our clients by responding to changes in the marketplace, in technology, and in your company – quickly and intelligently.",
           "text": "<li>Eliminate guesswork</li><li>Determine where best to focus and what to prioritize</li><li>Troubleshoot potential problems before the Audience Intelligence Platform is built</li>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         },
         {
           "_styles": {
