@@ -672,6 +672,9 @@ a:hover {
 #header8-12 H3 {
   font-size: 80px;
 }
+#footer4-3v p {
+  color: #000;
+}
 #menu2-o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -746,6 +749,9 @@ a:hover {
 #msg-box1-1k .round-text {
   text-align: center;
 }
+#footer4-3v p {
+  color: #000;
+}
 #form3-1x .card {
   background-color: transparent;
   box-shadow: none;
@@ -758,7 +764,7 @@ a:hover {
   line-height: 72px;
 }
 #form3-1x .heading {
-  background: #447eaa;
+  background: #3293dc;
 }
 #menu2-q .hide-buttons .nav-btn {
   display: none !important;
@@ -824,6 +830,9 @@ a:hover {
 #menu2-q .link[aria-expanded="true"],
 #menu2-q .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
+}
+#footer4-3v p {
+  color: #000;
 }
 #menu2-s .hide-buttons .nav-btn {
   display: none !important;
@@ -1086,16 +1095,8 @@ a:hover {
 #header1-1t .heading-title {
   font-size: 60px;
 }
-#footer2-1r .footer-list {
-  color: #749dc7;
-}
-#footer2-1r .btn-social {
-  border-color: #092368;
-  color: #092368;
-}
-#footer2-1r .btn-social:hover {
-  background: #092368;
-  color: #fff;
+#footer4-3v p {
+  color: #000;
 }
 #menu2-1z .hide-buttons .nav-btn {
   display: none !important;
@@ -1238,6 +1239,10 @@ a:hover {
 #menu2-2b .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
 }
+#header4-2e .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #header4-2e .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1369,6 +1374,9 @@ a:hover {
 #features4-3q .card-title P {
   text-align: left;
 }
+#footer4-3v p {
+  color: #000;
+}
 #menu2-38 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1434,10 +1442,17 @@ a:hover {
 #menu2-38 .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
 }
+#header4-3g .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
 #header4-3g .mbr-table-cell {
   vertical-align: middle;
 }
 #features2-3d .mbr-iconfont {
   color: #049ffc;
   border-color: #049ffc;
+}
+#footer4-3v p {
+  color: #000;
 }

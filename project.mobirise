@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 136,
+    "uniqCompNum": 145,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -832,39 +832,29 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
         },
         {
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-2k",
+          "_name": "footer4",
+          "_anchor": "footer4-3v",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#000",
-            "columns": 3,
-            "showTitle": true
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "title1": "For Business",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
-          "title2": "For Developers",
-          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
-          "title3": "For Stores",
-          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
-          "title4": "For Students",
-          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "Copywrite, Predict Ventures, 2015- 2016"
+          "text": "Copyright (c) 2017 Predict Ventures."
         }
       ]
     },
@@ -1035,42 +1025,32 @@
           },
           "title2": "Predict Labs is the R&amp;D division of Predict Consulting and differentiates us in the industry. Predict Labs enables us to quickly test scenarios for systems by creating prototypes. By doing a proof-of-concept for a client, we put quality assurance at the beginning, middle and end of our process.&nbsp;Predict Labs makes us nimble so we can provide the best solutions for our clients by responding to changes in the marketplace, in technology, and in your company – quickly and intelligently.",
           "text": "<li>Eliminate guesswork</li><li>Determine where best to focus and what to prioritize</li><li>Troubleshoot potential problems before the Audience Intelligence Platform is built</li>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         },
         {
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-39",
+          "_name": "footer4",
+          "_anchor": "footer4-3v",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#000",
-            "columns": 3,
-            "showTitle": true
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "title1": "For Business",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
-          "title2": "For Developers",
-          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
-          "title3": "For Stores",
-          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
-          "title4": "For Students",
-          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "Copywrite, Predict Ventures, 2015- 2016"
+          "text": "Copyright (c) 2017 Predict Ventures."
         }
       ]
     },
@@ -1093,7 +1073,7 @@
               "line-height": "72px"
             },
             ".heading": {
-              "background": "#447eaa"
+              "background": "#3293dc"
             }
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
@@ -1103,7 +1083,7 @@
           "_name": "form3",
           "_anchor": "form3-1x",
           "_params": {
-            "formBg": "#447eaa",
+            "formBg": "#3293dc",
             "paddingTop": "3",
             "paddingBottom": 1,
             "parallax": false,
@@ -1155,7 +1135,7 @@
           },
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
           "checkbox": "I agree to the <a href=\"http://mobirise.com\">terms</a>",
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\">Send message</a>"
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send message</a>"
         },
         {
           "_styles": {
@@ -1254,82 +1234,29 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs1-32\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"http://52.91.56.83/\">Request a Demo</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-1u",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "googleMap": {
-              "address": "62 Pearl St FLR 2, New York, NY 10004",
-              "placeId": "ChIJX3m0ahRawokRLfgGcOxltA0",
-              "state": "ok",
-              "stateDetails": ""
+          "_styles": {
+            "p": {
+              "color": "#000"
             }
-          }
-        },
-        {
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_anchor": "footer3-1y",
+          "_name": "footer4",
+          "_anchor": "footer4-3v",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "title1": "Eindhoven, 5657 DB, Netherlands",
-          "text2": "+9 876 543-21-00",
-          "title2": "350 5th Ave, New York, NY 10118",
-          "text1": "+1 234 576-89-00",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">Call us</a>"
-        },
-        {
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-39",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#000",
-            "columns": 3,
-            "showTitle": true
-          },
-          "title1": "For Business",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
-          "title2": "For Developers",
-          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
-          "title3": "For Stores",
-          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
-          "title4": "For Students",
-          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "Copywrite, Predict Ventures, 2015- 2016"
+          "text": "Copyright (c) 2017 Predict Ventures."
         }
       ]
     },
@@ -2205,7 +2132,7 @@
             "showFeaturesButtons": false
           },
           "title": "Optimizing Deal Value Through Data-Driven Diligence\n<div>&nbsp;</div>",
-          "text": "Predict's data due diligence reviews illuminate data risks in order to evaluate the health of company. &nbsp;We’ve seen many examples of companies losing revenue or headed toward dangerous trends without even realizing it. In other cases, they could not explain their drop in sales. Our data due diligence will track the full consumer and user&nbsp;workflow, identifying inefficiencies and missed opportunities,&nbsp;which often can’t be found in the financials or the technology.&nbsp;Regardless of your current role, you’ll be able to access the platform, as well as Predict’s consultants, to wield our deep media and technology industry knowledge to drive these insights.",
+          "text": "<span style=\"line-height: 1.5em;\">Predict's data due diligence reviews illuminate data risks in order to evaluate the health of company.  We’ve seen many examples of companies losing revenue or headed toward dangerous trends without even realizing it. In other cases, they could not explain their drop in sales. Our data due diligence will track the full consumer and user workflow, identifying inefficiencies and missed opportunities, which often can’t be found in the financials or the technology. Regardless of your current role, you’ll be able to access the platform, as well as Predict’s consultants, to wield our deep media and technology industry knowledge to drive these insights.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://52.91.56.83/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Started</a>",
           "media1": {
             "iconFont": {
@@ -2268,118 +2195,51 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "footer2",
-          "_styles": {
-            ".footer-list": {
-              "color": "#749dc7"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          },
-          "_anchor": "footer2-1r",
+          "_name": "footer3",
+          "_anchor": "footer3-3x",
           "_params": {
-            "listColor": "#749dc7",
-            "btnColor": "@infoColor",
             "paddingTop": 1,
             "paddingBottom": 1,
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#000",
-            "rows": "3",
-            "showIcons": false
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
           },
-          "heading": "Copyright 2015- 2016, Predict Ventures&nbsp;",
-          "list1": "",
-          "list2": "<p>&nbsp;&nbsp;<a href=\"http://predictventures.com\" target=\"_blank\">Predict Ventures</a>&nbsp;<a href=\"http://mobirise.com\"><i></i></a></p>",
-          "list3": "<p><a href=\"http://audiencevc.com\" target=\"_blank\">Audience Ventures</a><a href=\"http://mobirise.com\"></a></p>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "title1": "",
+          "text2": "",
+          "title2": "62 Pearl ST, New York, NY 10004",
+          "text1": "646-590-3270",
+          "title3": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
         },
         {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
+          "_name": "footer4",
+          "_anchor": "footer4-3v",
           "_params": {
-            "autoplay": true,
-            "timeout": 5,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "slides": [
-              {
-                "active": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Easy to use",
-                "showText": true,
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe voluptas quam illo amet, esse veniam autem perspiciatis impedit in assumenda cupiditate est quaerat ipsam cumque!",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "showImage": true,
-                "image": "@PROJECT_PATH@/assets/images/article-image-copy-2000x1031.png"
-              },
-              {
-                "active": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Visual Editor",
-                "showText": true,
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, veniam, blanditiis. Amet nam quam, quas porro quia sequi, perspiciatis ex saepe perferendis repellendus ea tenetur.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "showImage": true,
-                "image": "@PROJECT_PATH@/assets/images/02.png"
-              },
-              {
-                "active": false,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "No coding and free!",
-                "showText": true,
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero odio facilis optio amet eum tenetur quos quam, autem culpa, illo, nemo itaque at placeat blanditiis.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "showImage": true,
-                "image": "@PROJECT_PATH@/assets/images/03.png"
-              }
-            ],
-            "parallax": false,
             "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.95,
-            "overlayColor": "#5b5f6b",
-            "showBullets": true
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "_anchor": "features1-3r",
-          "articleLayout": false
+          "text": "Copyright (c) 2017 Predict Ventures."
         }
       ]
     },
@@ -2643,7 +2503,7 @@
             "showTitle": true
           },
           "title1": "For Business",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
+          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br><a href=\"http://mobirise.com\">Velit, id.</a><br><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br><a href=\"http://mobirise.com\">Veniam, dolores?</a><br><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
           "title2": "For Developers",
           "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
           "title3": "For Stores",
@@ -3163,41 +3023,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs1-32\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"http://52.91.56.83/\">Request a Demo</a></li>"
         },
         {
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-35",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#000",
-            "columns": 3,
-            "showTitle": true
-          },
-          "title1": "For Business",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
-          "title2": "For Developers",
-          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
-          "title3": "For Stores",
-          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
-          "title4": "For Students",
-          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "Copywrite, Predict Ventures, 2015- 2016"
-        },
-        {
           "_inherit": "features2",
           "_styles": {
             ".card": {
@@ -3323,6 +3148,56 @@
           "title4": "Cancellers",
           "text4": "Insightful view of average monthly churn. This visual tells, on average, how many people unsubscribe from a campaign/product every month. ",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-3y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "",
+          "text2": "",
+          "title2": "62 Pearl ST, New York, NY 10004",
+          "text1": "646-590-3270",
+          "title3": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-3v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Predict Ventures."
         }
       ]
     },
@@ -3424,41 +3299,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-2n\" aria-expanded=\"false\">WHAT WE DO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-16\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#tabs1-32\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header8-12\" aria-expanded=\"false\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"predictlabs.html\" aria-expanded=\"false\">PREDICT LABS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"http://52.91.56.83/\">Request a Demo</a></li>"
-        },
-        {
-          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-39",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#000",
-            "columns": 3,
-            "showTitle": true
-          },
-          "title1": "For Business",
-          "text1": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Perferendis, fugiat.</a><br /><a href=\"http://mobirise.com\">Velit, id.</a><br /><a href=\"http://mobirise.com\">Temporibus, aliquam.</a><br /><a href=\"http://mobirise.com\">Veniam, dolores?</a><br /><a href=\"http://mobirise.com\">Aliquid, eveniet.</a>",
-          "title2": "For Developers",
-          "text2": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Eaque, illum.</a><br /><a href=\"http://mobirise.com\">Ducimus, modi.</a><br /><a href=\"http://mobirise.com\">Ipsa, quia!</a><br /><a href=\"http://mobirise.com\">Velit, impedit.</a><br /><a href=\"http://mobirise.com\">Est, alias?</a>",
-          "title3": "For Stores",
-          "text3": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br><a href=\"http://mobirise.com\">Laboriosam, culpa.</a><br><a href=\"http://mobirise.com\">Tempora, quasi.</a><br><a href=\"http://mobirise.com\">Dolorem, eum.</a><br><a href=\"http://mobirise.com\">Fugiat, iure.</a><br><a href=\"http://mobirise.com\">Nobis, veniam.</a>",
-          "title4": "For Students",
-          "text4": "<a href=\"http://mobirise.com\">Lorem ipsum.</a><br /><a href=\"http://mobirise.com\">Excepturi, consectetur.</a><br /><a href=\"http://mobirise.com\">Similique, debitis.</a><br /><a href=\"http://mobirise.com\">Cum, ea!</a><br /><a href=\"http://mobirise.com\">Asperiores, at.</a><br /><a href=\"http://mobirise.com\">Obcaecati, molestias.</a>",
-          "copy": "Copywrite, Predict Ventures, 2015- 2016"
         },
         {
           "_tags": [
@@ -3597,6 +3437,56 @@
           "title4": "Analytics",
           "text4": "Access your data faster with dynamic dashboards and data visualization. Gain ability to explore your data to draw valuable conclusions about your cinema.",
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-3z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "",
+          "text2": "",
+          "title2": "62 Pearl ST, New York, NY 10004",
+          "text1": "646-590-3270",
+          "title3": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-3v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Predict Ventures."
         }
       ]
     }
