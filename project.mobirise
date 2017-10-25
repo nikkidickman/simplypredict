@@ -453,7 +453,7 @@
           "_params": {
             "autoplay": true,
             "arrowColor": "#e3e3e3",
-            "timeout": 5,
+            "timeout": "8",
             "paddingTop": 1,
             "paddingBottom": 1,
             "slides": [
