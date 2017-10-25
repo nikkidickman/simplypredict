@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-09-20_1026",
-    "currentPage": "predictlabs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -333,7 +333,7 @@
             "showText": true,
             "showButtons": false,
             "columns": 3,
-            "showFeaturesImages": true,
+            "showFeaturesImages": false,
             "showFeaturesTitles": false,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
