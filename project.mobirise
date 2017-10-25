@@ -451,14 +451,14 @@
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "arrowColor": "#e3e3e3",
             "timeout": "10",
             "paddingTop": 1,
             "paddingBottom": 1,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/ed-vincent-160x160.png",
@@ -477,7 +477,7 @@
                 "text": "<p><br></p><p><span style=\"background-color: transparent; line-height: 1.5;\">As Predict's Founder and Managing Partner driving Strategy and Corporate Development, Ed combines his unique background as a technology and marketing company founder, management consultant, investor, board member and former valuation expert to drive high value strategic initiatives for clients and Predict's portfolio of companies.  Previously Ed has founded and exited companies in verticals including e-commerce, data driven SaaS MarTech, and a 50+ person marketing/consulting agency.  Ed has launched branded hospitality initiatives that included a multi-million dollar licensing partnership between a real estate developer and an iconic media brand and founded an international film festival in the caribbean.  Ed began his career valuing real estate and privately held companies for KMPG and as an investment banker with TD Bank.</span><br></p>"
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/chris-bryant-160x160.png",
