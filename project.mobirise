@@ -444,7 +444,7 @@
           "_name": "testimonials1",
           "_styles": {
             ".card-block P": {
-              "font-size": "18px"
+              "font-size": "16px"
             },
             ".card-footer > small": {
               "font-size": "15px"
@@ -453,7 +453,7 @@
           "_params": {
             "autoplay": true,
             "arrowColor": "#e3e3e3",
-            "timeout": "8",
+            "timeout": "10",
             "paddingTop": 1,
             "paddingBottom": 1,
             "slides": [
