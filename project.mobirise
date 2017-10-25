@@ -334,7 +334,7 @@
             "showButtons": false,
             "columns": 3,
             "showFeaturesImages": false,
-            "showFeaturesTitles": false,
+            "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false
           },
@@ -352,8 +352,8 @@
               "newWindow": false
             }
           },
-          "title1": "What is Mobirise",
-          "text1": "Creation<br>+ Monitization &amp; Advertising<br>+ Concept Development<br>+ Multi-screen formats&nbsp;<br>+ Transmedia storytelling",
+          "title1": "Creation",
+          "text1": "+ Monitization &amp; Advertising<br>+ Concept Development<br>+ Multi-screen formats&nbsp;<br>+ Transmedia storytelling",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -366,8 +366,8 @@
               "newWindow": false
             }
           },
-          "title2": "What is Mobirise",
-          "text2": "<span style=\"line-height: 1.7em; background-color: transparent;\">Platforms &amp; Distribution</span><br>+ SVOD<br>+ Linear<br>+ Second Screen&nbsp;<br><br>",
+          "title2": "Platforms &amp; Distribution",
+          "text2": "+ SVOD<br>+ Linear<br>+ Second Screen&nbsp;<br><br>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -380,8 +380,8 @@
               "newWindow": false
             }
           },
-          "title3": "What is Mobirise",
-          "text3": "Strategy&nbsp;<br>+ Digital Strategies<br>+ Big data analytics<br>+ Cross-platform attribution &amp; optimization<br>+ Theater exhibitor data management<br><br>",
+          "title3": "Strategy",
+          "text3": "+ Digital Strategies<br>+ Big data analytics<br>+ Cross-platform attribution &amp; optimization<br>+ Theater exhibitor data management<br><br>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media4": {
             "iconFont": {
