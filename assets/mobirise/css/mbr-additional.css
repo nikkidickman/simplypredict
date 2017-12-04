@@ -1239,10 +1239,6 @@ a:hover {
 #menu2-2b .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
 }
-#header4-2e .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header4-2e .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1441,10 +1437,6 @@ a:hover {
 #menu2-38 .link[aria-expanded="true"],
 #menu2-38 .dropdown-item[aria-expanded="true"] {
   color: #1a73e6!important;
-}
-#header4-3g .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #header4-3g .mbr-table-cell {
   vertical-align: middle;
